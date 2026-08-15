@@ -1,8 +1,8 @@
-![Edgeberry banner](https://raw.githubusercontent.com/Edgeberry/.github/main/brand/EdgeBerry_banner_cartridge.png)
+![Redbox banner](https://raw.githubusercontent.com/ThatRedBox/.github/refs/heads/main/brand/Redbox_banner.png)
 
 <img src="documentation//Edgeberry_Explorer_Cartridge_rendering.png" align="right" width="40%"/>
 
-The Edgeberry **Edge Explorer Hardware Cartridge** is made for quick experimentation — helping you explore ideas by easily connecting sensors, actuators, and other peripherals to your Edgeberry system. It features the widely used 4-pin 2.0 mm pitch JST-PH connector, compatible with modules and breakouts from popular ecosystems like [Grove](https://www.seeedstudio.com/catalogsearch/result/?q=grove), [Crowtail](https://www.elecrow.com/catalog/category/view/s/crowtail/id/13/), and [STEMMA](https://www.adafruit.com/category/1005).
+The **Redbox Explorer Hardware Cartridge** is made for explore ideas by easily connecting sensors, actuators, and other peripherals to your system. It features the widely used 4-pin 2.0 mm pitch JST-PH connector, compatible with modules and breakouts from popular ecosystems like [Grove](https://www.seeedstudio.com/catalogsearch/result/?q=grove), [Crowtail](https://www.elecrow.com/catalog/category/view/s/crowtail/id/13/), and [STEMMA](https://www.adafruit.com/category/1005).
 
 #### Ports:
 - **5x Digital in/out** (with PWM on D1)
@@ -36,7 +36,7 @@ On the Hardware Cartridge board is an ADC chip (MCP3008) connected with the SPI 
 The **[Crowtail Demo](https://github.com/Edgeberry/Edgeberry-HWCartridge-EdgeExplorer/tree/main/examples/Crowtail-Demo)** example is a basic but essential IoT demo with [Crowtail](https://www.elecrow.com/catalog/category/view/s/crowtail/) hardware breakouts and the [Node-RED](https://nodered.org/docs/getting-started/raspberrypi) low-code programming environment.
 
 ## License & Collaboration
-**Copyright© 2024 Sanne 'SpuQ' Santens**. This project is released under the **CERN OHL-W** license. The [Rules & Guidelines](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_Trademark_Rules_and_Guidelines.md) apply to the usage of the Edgeberry™ brand.
+**Copyright© 2024 Sanne 'SpuQ' Santens**. This project is released under the **CERN OHL-W** license. Rules & guidelines apply to the usage of the Redbox brand.
 
 ### Collaboration
 
