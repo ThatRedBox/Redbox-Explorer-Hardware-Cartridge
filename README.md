@@ -2,7 +2,7 @@
 
 <img src="documentation//Edgeberry_Explorer_Cartridge_rendering.png" align="right" width="40%"/>
 
-The **Redbox Explorer Hardware Cartridge** is made for explore ideas by easily connecting sensors, actuators, and other peripherals to your system. It features the widely used 4-pin 2.0 mm pitch JST-PH connector, compatible with modules and breakouts from popular ecosystems like [Grove](https://www.seeedstudio.com/catalogsearch/result/?q=grove), [Crowtail](https://www.elecrow.com/catalog/category/view/s/crowtail/id/13/), and [STEMMA](https://www.adafruit.com/category/1005).
+The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sensors, actuators, and other peripherals to your system. It features the widely used 4-pin 2.0 mm pitch JST-PH connector, compatible with modules and breakouts from popular ecosystems like [Grove](https://www.seeedstudio.com/catalogsearch/result/?q=grove), [Crowtail](https://www.elecrow.com/catalog/category/view/s/crowtail/id/13/), and [STEMMA](https://www.adafruit.com/category/1005).
 
 #### Ports:
 - **5x Digital in/out** (with PWM on D1)
