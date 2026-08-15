@@ -6179,7 +6179,7 @@
 		)
 		(uuid "b5f567f8-462c-4480-a012-7ef23ca6a1a4")
 	)
-	(text "Edge Explorer Rev. 1.1, early 2025"
+	(text "Rev. 1.1, early 2025"
 		(exclude_from_sim no)
 		(at 179.07 175.26 0)
 		(effects
@@ -6215,7 +6215,7 @@
 		)
 		(uuid "be5c6062-1d18-4214-8c81-879d79926dd9")
 	)
-	(text "EDGEBERRY CARTRIDGE"
+	(text "Red[box] Explorer Cartridge"
 		(exclude_from_sim no)
 		(at 178.816 173.99 0)
 		(effects
