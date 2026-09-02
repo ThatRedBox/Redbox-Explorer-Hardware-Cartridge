@@ -20400,10 +20400,10 @@ DEF SHAPE_93 Shape {
  appearance DEF APP_5 Appearance {
   material Material {
    ambientIntensity 1
-   diffuseColor 0.0078431377 0.23137255 0.63529414
+   diffuseColor 0.70980394 0.074509807 0.082352944
    emissiveColor 0 0 0
    shininess 0.30000001
-   specularColor 0.3054902 0.46196079 0.74470586
+   specularColor 0.79686272 0.35215688 0.35764706
    transparency 0.17
 } }
  geometry DEF FACE_93 IndexedFaceSet {
@@ -28579,10 +28579,10 @@ DEF SHAPE_95 Shape {
  appearance DEF APP_6 Appearance {
   material Material {
    ambientIntensity 1
-   diffuseColor 0.0078431377 0.23137255 0.63529414
+   diffuseColor 0.70980394 0.074509807 0.082352944
    emissiveColor 0 0 0
    shininess 0.30000001
-   specularColor 0.3054902 0.46196079 0.74470586
+   specularColor 0.79686272 0.35215688 0.35764706
    transparency 0.17
 } }
  geometry DEF FACE_95 IndexedFaceSet {

@@ -545,7 +545,7 @@
       "specctra_dsn": "",
       "step": "Redbox_Explorer_Cartridge.step",
       "svg": "",
-      "vrml": "../3D models/Redbox_Explorer_Cartridge.wrl"
+      "vrml": "../Documentation/Redbox_Explorer_Cartridge_nofaceplate.wrl"
     },
     "page_layout_descr_file": ""
   },
