@@ -14,7 +14,8 @@ The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sen
 
 ## Usage
 
-<img src="Documentation//Redbox_insert_cartridge.png" align="right" width="40%"/>
+<img src="Documentation//Redbox_insert_cartridge.png" align="right" width="50%"/>
+
 The Hardware Cartridge slide into the back of the controller, into the [Edgeberry](https://edgeberry.github.io) hardware expansion slot.
 
 <br clear="right"/>
