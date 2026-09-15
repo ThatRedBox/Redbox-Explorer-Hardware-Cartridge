@@ -23,8 +23,8 @@ The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sen
 | **D3**   | Digital I/O  | GPIO13 <br/>GPIO24        |      |
 | **D4**   | Digital I/O  | GPIO25 <br/>GPIO22        |      |
 | **D5**   | Digital I/O  | GPIO23 <br/>GPIO27        |      |
-| **A1**   | Analog input <br/> 0...5V | *ADC* CH0 <br/>*ADC* CH1  |      |
-| **A2**   | Analog input <br/> 0...5V | *ADC* CH2 <br/>*ADC* CH3  |      |
+| **A1**   | Analog input <br/> 0...5V | *ADC* CH0 <br/>*ADC* CH1  | via MCP3008 on SPI     |
+| **A2**   | Analog input <br/> 0...5V | *ADC* CH2 <br/>*ADC* CH3  | via MCP3008 on SPI     |
 | **I2C**  | I2C bus      | I2C SDA <br/>I2C SDL      |      |
 | **UART** | UART bus     | UART RX <br/>UART TX      |      |
 
@@ -35,8 +35,6 @@ _*Hardware PWM on Raspberry Pi 3B+/4B/5B/Zero 2W_
 
 >[!WARNING]
 >The digital I/O lines on this Hardware Cartridge use a passive N-MOSFET level-shifting circuit designed for compatibility with standard open-drain and push-pull I/O configurations.
-
-On the Hardware Cartridge board is an ADC chip (MCP3008) connected with the SPI interface.
 
 ## Examples
 
