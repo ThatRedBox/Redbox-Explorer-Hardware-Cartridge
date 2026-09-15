@@ -16,7 +16,7 @@ The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sen
 
 <img src="Documentation//Redbox_insert_cartridge.png" align="right" width="50%"/>
 
-The Hardware Cartridge slide into the back of the controller, into the [Edgeberry](https://edgeberry.github.io) hardware expansion slot.
+The Hardware Cartridge slide into the back of the controller, into the [Edgeberry](https://edgeberry.github.io) hardware expansion slot. The faceplate model for 3D printing can be found [here](Enclosure/Redbox_Explorer_Cartridge_faceplate.stl).
 
 <br clear="right"/>
 
