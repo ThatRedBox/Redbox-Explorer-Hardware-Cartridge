@@ -40,10 +40,6 @@ _*Hardware PWM on Raspberry Pi 3B+/4B/5B/Zero 2W_
 >[!WARNING]
 >The digital I/O lines on this Hardware Cartridge use a passive N-MOSFET level-shifting circuit designed for compatibility with standard open-drain and push-pull I/O configurations.
 
-## Examples
-
-The **[Crowtail Demo](https://github.com/Edgeberry/Edgeberry-HWCartridge-EdgeExplorer/tree/main/examples/Crowtail-Demo)** example is a basic but essential IoT demo with [Crowtail](https://www.elecrow.com/catalog/category/view/s/crowtail/) hardware breakouts and the [Node-RED](https://nodered.org/docs/getting-started/raspberrypi) low-code programming environment.
-
 ## License & Collaboration
 **Copyright© 2024 Sanne 'SpuQ' Santens**. This project is released under the **CERN OHL-W** license. Rules & guidelines apply to the usage of the Redbox brand.
 
