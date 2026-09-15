@@ -15,6 +15,9 @@ The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sen
 ## Layout
 
 <img src="Documentation//Redbox_insert_cartridge.png" align="right" width="60%"/>
+The Hardware Cartridge slide into the back of the Controller.
+
+<br clear="right"/>
 
 | Port     | Type         | Connection                | Info |
 |----------|--------------|---------------------------|------|
@@ -30,8 +33,6 @@ The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sen
 
 
 _*Hardware PWM on Raspberry Pi 3B+/4B/5B/Zero 2W_
-
-<br clear="right"/>
 
 >[!WARNING]
 >The digital I/O lines on this Hardware Cartridge use a passive N-MOSFET level-shifting circuit designed for compatibility with standard open-drain and push-pull I/O configurations.
