@@ -12,12 +12,14 @@ The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sen
 
 <br clear="right"/>
 
-## Layout
+## Usage
 
 <img src="Documentation//Redbox_insert_cartridge.png" align="right" width="60%"/>
 The Hardware Cartridge slide into the back of the Controller.
 
 <br clear="right"/>
+
+### Layout
 
 | Port     | Type         | Connection                | Info |
 |----------|--------------|---------------------------|------|
