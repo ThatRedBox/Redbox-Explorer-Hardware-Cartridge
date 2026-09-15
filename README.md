@@ -16,7 +16,7 @@ The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sen
 
 <img src="Documentation//Redbox_insert_cartridge.png" align="right" width="50%"/>
 
-The Hardware Cartridge slides into the [Edgeberry™](https://edgeberry.github.io) hardware expansion slot in the back of the controller. The faceplate model for 3D printing can be found [here](Documentation/Redbox_Explorer_Cartridge_faceplate.stl).
+The Hardware Cartridge slides into the [Edgeberry™](https://edgeberry.github.io) hardware expansion slot in the back of the controller. The faceplate model for 3D printing can be found [here](Documentation/Redbox_Explorer_Cartridge_faceplate.stl). Connect modules from a wide range of ecosystems using the `HY 2.0 4pin` connector to the appropriate ports (analog/digital/...).
 
 <br clear="right"/>
 
@@ -32,7 +32,7 @@ The Hardware Cartridge slides into the [Edgeberry™](https://edgeberry.github.i
 | **A1**   | Analog input <br/> 0...5V | *ADC* CH0 <br/>*ADC* CH1  | via MCP3008 on SPI     |
 | **A2**   | Analog input <br/> 0...5V | *ADC* CH2 <br/>*ADC* CH3  | via MCP3008 on SPI     |
 | **I2C**  | I2C bus      | I2C SDA <br/>I2C SDL      |      |
-| **UART** | UART bus     | UART RX <br/>UART TX      |      |
+| **UART** | Serial bus     | UART RX <br/>UART TX      |      |
 
 
 _*Hardware PWM on Raspberry Pi 3B+/4B/5B/Zero 2W_
