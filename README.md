@@ -21,7 +21,7 @@ The Hardware Cartridge slide into the back of the Controller.
 
 ### Layout
 
-| Port     | Type         | Connection                | Info |
+| Port     | Type         | Raspberry Pi GPIO Pin     | Info |
 |----------|--------------|---------------------------|------|
 | **D1**   | Digital I/O  | GPIO12 <br/>GPIO20        | Hardware PWM capable* |
 | **D2**   | Digital I/O  | GPIO21 <br/>GPIO16        |      |
