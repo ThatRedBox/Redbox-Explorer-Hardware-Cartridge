@@ -16,18 +16,20 @@ The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sen
 
 <img src="Documentation//Redbox_insert_cartridge.png" align="right" width="60%"/>
 
-| Port     | Connection             | Info |
-|----------|------------------------|------|
-| **D1**   | GPIO12 <br/>GPIO20     | PWM     |
-| **D2**   | GPIO21 <br/>GPIO16     |      |
-| **D3**   | GPIO13 <br/>GPIO24     |      |
-| **D4**   | GPIO25 <br/>GPIO22     |      |
-| **D5**   | GPIO23 <br/>GPIO27     |      |
-| **A1**   | *ADC* CH0 <br/>*ADC* CH1  |      |
-| **A2**   | *ADC* CH2 <br/>*ADC* CH3  |      |
-| **I2C**  | I2C SDA <br/>I2C SDL   |      |
-| **UART** | UART RX <br/>UART TX   |      |
+| Port     | Type         | Connection                | Info |
+|----------|--------------|---------------------------|------|
+| **D1**   | Digital I/O  | GPIO12 <br/>GPIO20        | Hardware PWM capable* |
+| **D2**   | Digital I/O  | GPIO21 <br/>GPIO16        |      |
+| **D3**   | Digital I/O  | GPIO13 <br/>GPIO24        |      |
+| **D4**   | Digital I/O  | GPIO25 <br/>GPIO22        |      |
+| **D5**   | Digital I/O  | GPIO23 <br/>GPIO27        |      |
+| **A1**   | Analog input <br/> 0...5V | *ADC* CH0 <br/>*ADC* CH1  |      |
+| **A2**   | Analog input <br/> 0...5V | *ADC* CH2 <br/>*ADC* CH3  |      |
+| **I2C**  | I2C bus      | I2C SDA <br/>I2C SDL      |      |
+| **UART** | UART bus     | UART RX <br/>UART TX      |      |
 
+
+_*Hardware PWM on Raspberry Pi 3B+/4B/5B/Zero 2W_
 
 <br clear="right"/>
 
