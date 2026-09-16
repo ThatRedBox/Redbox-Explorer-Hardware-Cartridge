@@ -22,7 +22,7 @@ The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sen
 
 <img src="Documentation//Redbox_insert_cartridge.png" align="right" width="50%"/>
 
-The _Hardware Cartridge_ slides into the expansion slot in the back of the controller. The faceplate model for 3D printing can be found [here](Documentation/Redbox_Explorer_Cartridge_faceplate.stl). 
+The _Explorer Hardware Cartridge_ slides into the expansion slot in the back of the controller. The faceplate model for 3D printing can be found [here](Documentation/Redbox_Explorer_Cartridge_faceplate.stl). 
 
 Connect modules from a wide range of ecosystems using the `HY2.0-4P` connector (commonly known as the _Grove_ connector) to their respective port type (analog/digital/...).
 
