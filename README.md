@@ -12,6 +12,7 @@ The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sen
 
 
 [![Designed for Edgeberry](https://img.shields.io/badge/Designed_for-Edgeberry-0007ff?style=flat-square)](https://edgeberry.github.io)
+
 <img src="https://raw.githubusercontent.com/ThatRedBox/.github/main/brand/oshw-certification-mark.png" width="160px"/>
 
 <br clear="right"/>
