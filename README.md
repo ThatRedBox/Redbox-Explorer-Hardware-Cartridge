@@ -11,8 +11,7 @@ The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sen
 - **2x I2C**
 
 
-[![Designed for Edgeberry](https://img.shields.io/badge/Designed_for-Edgeberry-0007ff?style=flat-square)](https://edgeberry.github.io)
-
+[![Designed for Edgeberry](https://img.shields.io/badge/Designed_for-Edgeberry-0007ff?style=flat-square)](https://edgeberry.github.io) <br/>
 <a href="https://certification.oshwa.org/be000035.html" ><img src="https://raw.githubusercontent.com/ThatRedBox/.github/main/brand/oshw-certification-mark.png" width="140px"/></a>
 
 <br clear="right"/>
