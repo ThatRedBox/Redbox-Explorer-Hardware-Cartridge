@@ -10,15 +10,19 @@ The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sen
 - **1x UART**
 - **2x I2C**
 
-<br clear="right"/>
 
 [![Designed for Edgeberry](https://img.shields.io/badge/Designed_for-Edgeberry-0007ff?style=flat-square)](https://edgeberry.github.io)
+
+<img src="https://raw.githubusercontent.com/ThatRedBox/.github/main/brand/oshw-certification-mark.png" width="70px"/>
+
+<br clear="right"/>
+
 
 ## Usage
 
 <img src="Documentation//Redbox_insert_cartridge.png" align="right" width="50%"/>
 
-The Hardware Cartridge slides into the [Edgeberry™](https://edgeberry.github.io) hardware expansion slot in the back of the controller. The faceplate model for 3D printing can be found [here](Documentation/Redbox_Explorer_Cartridge_faceplate.stl). 
+The _Hardware Cartridge_ slides into the expansion slot in the back of the controller. The faceplate model for 3D printing can be found [here](Documentation/Redbox_Explorer_Cartridge_faceplate.stl). 
 
 Connect modules from a wide range of ecosystems using the `HY2.0-4P` connector (commonly known as the _Grove_ connector) to their respective port type (analog/digital/...).
 
