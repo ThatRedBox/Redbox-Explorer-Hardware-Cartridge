@@ -2,7 +2,7 @@
 
 <img src="Documentation//Redbox_Explorer_Cartridge_rendering.png" align="right" width="40%"/>
 
-The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sensors, actuators, and other peripherals to your system. It features the widely used 4-pin 2.0 mm pitch JST-PH connector, compatible with modules and breakouts from popular ecosystems like [Grove](https://www.seeedstudio.com/catalogsearch/result/?q=grove), [Crowtail](https://www.elecrow.com/catalog/category/view/s/crowtail/id/13/), and [STEMMA](https://www.adafruit.com/category/1005).
+The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sensors, actuators, and other peripherals to your system. It features the widely used `HY2.0-4P` connector (commonly referred to as the _Grove_ connector), compatible with modules and breakouts from popular ecosystems like [Grove](https://www.seeedstudio.com/catalogsearch/result/?q=grove), [Crowtail](https://www.elecrow.com/catalog/category/view/s/crowtail/id/13/), and [STEMMA](https://www.adafruit.com/category/1005).
 
 #### Ports:
 - **5x Digital in/out** (with PWM on D1)
@@ -24,7 +24,7 @@ The **Redbox Explorer Hardware Cartridge** is designed for easily connecting sen
 
 The _Explorer Hardware Cartridge_ slides into the expansion slot in the back of the controller. The faceplate model for 3D printing can be found [here](Documentation/Redbox_Explorer_Cartridge_faceplate.stl). 
 
-Connect modules from a wide range of ecosystems using the `HY2.0-4P` connector (commonly known as the _Grove_ connector) to their respective port type (analog/digital/...).
+Connect modules from a wide range of ecosystems using the `HY2.0-4P` connector to their respective port type (analog/digital/...).
 
 <br clear="right"/>
 
